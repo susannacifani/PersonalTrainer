@@ -24,11 +24,6 @@ To start the application:
 python PersonalTrainer\gui.py
 ```
 
-### Linux
-
-```
-bash PersonalTrainer/start.sh
-```
 
 
 
