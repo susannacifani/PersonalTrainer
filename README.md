@@ -6,22 +6,9 @@ Personal Trainer is a Python application that will help you monitor and improve 
 
 ### Windows
 
-**Step 1:** Start model training.
-
-To run model training:
-```
-python PersonalTrainer\pesi\squat\scende\sx\training.py
-```
-
-```
-python PersonalTrainer\pesi\squat\schiena\sx\training.py
-```
-
-**Step 2:** Launch the application.
-
 To start the application:
 ```
-python PersonalTrainer\gui.py
+python PersonalTrainer\run.py
 ```
 
 
